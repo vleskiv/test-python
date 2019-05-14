@@ -1,4 +1,6 @@
 
+## README with python terms, functions and short code examples
+
 # show part of a string
 fruit[1:4]
 fruit[position-start:position-end]
